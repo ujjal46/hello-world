@@ -1,5 +1,5 @@
 # hello-world
-Intro to Github
+Intro to Git
 ======================
 
 Learning something new with github
